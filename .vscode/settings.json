@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "console.h": "c",
-        "uart_io.h": "c",
-        "string.h": "c"
-    }
-}
